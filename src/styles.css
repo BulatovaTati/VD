@@ -82,6 +82,10 @@ button:hover {
 button:focus {
   outline: none;
 }
+
+.fa-volume-off:before {
+  content: '\f026';
+}
 #progress-bar {
   width: 100%;
   background-color: pink;
